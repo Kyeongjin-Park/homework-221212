@@ -1,0 +1,9 @@
+body .inner {
+  text-align: center;
+}
+body .inner .board {
+  background-color: orange;
+  width: 500px;
+  height: 500px;
+  display: inline-block;
+}
